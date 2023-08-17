@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is PRANSHU GUPTA and I'm currently diving headfirst into the worlds of Blockchain, Machine Learning, Web Development, and Data Science – because apparently, hobbies are overrated! 🌐⚙️🤖💻📊</h2>
+<h1 align="left">Hi 👋! My name is PRANSHU GUPTA</h1> 
+
+<h2>I'm currently diving headfirst into the worlds of Blockchain, Machine Learning, Web Development, and Data Science – because apparently, hobbies are overrated! 🌐⚙️🤖💻📊</h2>
 
 ###
 
