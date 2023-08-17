@@ -2,8 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://drive.google.com/file/d/1VbX7M9NLmJFqOWD4AZupIrDFXUfFVXAF/view?usp=sharing"  />
-
 ###
 
 <div align="left">
@@ -27,9 +25,15 @@
 ###
 
 <div align="left">
+  <a href="https://www.linkedin.com/in/pranshugupta01/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    </a>
+  <a href="https://twitter.com/pranshu_gupta01">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/pranshu_gupta01/">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
