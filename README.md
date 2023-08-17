@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranshugupta01" alt="pranshugupta01" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pranshu_gupta01" target="blank"><img src="https://img.shields.io/twitter/follow/pranshu_gupta01?logo=twitter&style=for-the-badge" alt="pranshu_gupta01" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/pranshugupta01/" target="blank"><img src="https://img.shields.io/linkedin/follow/pranshugupta01?logo=linkedin&style=for-the-badge" alt="pranshugupta01" /></a> </p>
 
 - 🔭 I’m currently working on [smackThat](https://github.com/pranshugupta01/smackThat)
 
@@ -13,13 +14,13 @@
 
 - 👯 I’m looking to collaborate on **AI/ML Projects**
 
-- 👨‍💻 Check Out My Portfolio [https://pranshugupta.streamlit.app](https://pranshugupta.streamlit.app)
+- 👨‍💻 Check Out My Portfolio [MyPortfolio](https://pranshugupta.streamlit.app)
 
 - 💬 Ask me about **Python,Flask,Javascript,Reactjs,Solidity**
 
 - 📫 How to reach me **gpranshu482@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11p8dSCT6iX_YvXnaRYUJVwLjLr5HCyRb/view?usp=sharing](https://drive.google.com/file/d/11p8dSCT6iX_YvXnaRYUJVwLjLr5HCyRb/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/11p8dSCT6iX_YvXnaRYUJVwLjLr5HCyRb/view?usp=sharing)
 
 - ⚡ Fun fact **I Think I Am Cool**
 
