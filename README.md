@@ -1,72 +1,38 @@
-<h1 align="center">Hi 👋! I'm PRANSHU GUPTA</h1>
+<h1 align="left">Hi 👋! My name is PRANSHU GUPTA</h1> 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Blockchain+%7C+ML+%7C+Web+Dev+%7C+Data+Science;Always+Learning+%26+Building+Cool+Stuff" alt="Typing SVG" />
-</p>
+<h2>I'm currently diving headfirst into the worlds of Blockchain, Machine Learning, Web Development, and Data Science – because apparently, hobbies are overrated! 🌐⚙️🤖💻📊</h2>
 
----
+###
 
-<h2 align="center">🚀 About Me</h2>
+###
 
-<p align="center">
-  🎓 I'm a passionate developer diving deep into the realms of:<br/>
-  - <strong>Blockchain</strong>: Crafting decentralized solutions.<br/>
-  - <strong>Machine Learning</strong>: Teaching machines to think.<br/>
-  - <strong>Web Development</strong>: Building responsive and dynamic web applications.<br/>
-  - <strong>Data Science</strong>: Turning data into actionable insights.<br/><br/>
-  💼 I also engage in freelancing projects and run:<br/>
-  - A <strong>Meme Channel</strong>: Spreading smiles one meme at a time.<br/>
-  - An <strong>AI Video Channel</strong>: Exploring the wonders of artificial intelligence through videos.
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="solidity logo"  />
+</div>
 
----
+###
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="Solidity" />
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranshugupta01&show_icons=true&theme=radical" alt="Pranshu's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshugupta01&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranshugupta01&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-<h2 align="center">🌐 Connect with Me</h2>
-
-<p align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/pranshugupta01/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pranshu%20Gupta-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    </a>
   <a href="https://twitter.com/pranshu_gupta01">
-    <img src="https://img.shields.io/badge/Twitter-@pranshu_gupta01-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-</p>
+</div>
 
----
-
-<h2 align="center">🎯 Fun Fact</h2>
-
-<p align="center">
-  "Code is like humor. When you have to explain it, it’s bad." – Cory House
-</p>
+###
