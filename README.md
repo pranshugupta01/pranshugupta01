@@ -1,16 +1,16 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:30363d,100:0d1117&height=180&section=header&text=PRANSHU_OS&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=BUILD.%20BREAK.%20REPEAT.&descSize=15&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:30363d,100:0d1117&height=180&section=header&text=PRANSHU&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=BUILD.%20BREAK.%20REPEAT.&descSize=15&descAlignY=65" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=C9D1D9&center=true&vCenter=true&width=650&lines=%3E+Initializing+developer+environment...;%3E+Loading+neural+networks...;%3E+Compiling+questionable+ideas...;%3E+System+online.+Welcome." alt="Boot sequence"/>
 
 </div>
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│ PRANSHU_OS                           SYSTEM ONLINE  ● │
-├──────────────────────────────────────────────────────┤
+┌---------------------------┐
+│ PRANSHU                           SYSTEM ONLINE  ● │
+├---------------------------┤
 │                                                      │
 │  USER      : Pranshu Gupta                           │
 │  ROLE      : Software Developer                      │
@@ -19,10 +19,10 @@
 │  MODE      : Building & Experimenting                │
 │  STATUS    : Probably debugging something            │
 │                                                      │
-└──────────────────────────────────────────────────────┘
+└---------------------------┘
 ```
 
-## `01` ── SYSTEM INFORMATION
+## `01` - SYSTEM INFORMATION
 
 > I build software, experiment with emerging technologies,
 > and turn questionable ideas into working repositories.
@@ -33,7 +33,7 @@
 - Developer Tools & Software Engineering
 - Open-Source Experiments
 
-## `02` ── SYSTEM MONITOR
+## `02` - SYSTEM MONITOR
 
 <div align="center">
 
@@ -43,7 +43,7 @@
 
 </div>
 
-## `03` ── CONTRIBUTION MATRIX
+## `03` - CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -51,11 +51,11 @@
 
 </div>
 
-## `04` ── FEATURED PROCESSES
+## `04` - FEATURED PROCESSES
 
 ```text
 PID     PROCESS          DESCRIPTION
-──────────────────────────────────────────────────
+-------------------------
 001     app-shrink       Micro-app compiler
 002     CareConnect      AI-assisted emotional support
 003     SecureProX       Browser security extension
@@ -83,7 +83,7 @@ PID     PROCESS          DESCRIPTION
 
 </div>
 
-## `05` ── INSTALLED PACKAGES
+## `05` - INSTALLED PACKAGES
 
 <div align="center">
 
@@ -95,7 +95,7 @@ PID     PROCESS          DESCRIPTION
 
 </div>
 
-## `06` ── LANGUAGE DISTRIBUTION
+## `06` - LANGUAGE DISTRIBUTION
 
 <div align="center">
 
@@ -103,7 +103,7 @@ PID     PROCESS          DESCRIPTION
 
 </div>
 
-## `07` ── NETWORK CONNECTIONS
+## `07` - NETWORK CONNECTIONS
 
 <div align="center">
 
